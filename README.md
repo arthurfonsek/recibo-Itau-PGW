@@ -5,11 +5,7 @@ Este projeto contém uma função AWS Lambda que gera um comprovante de pagament
 ## Arquivos
 
 - `main.py`: Função principal AWS Lambda
-- `documentacao_recibo.py`: Gerador de documentação do sistema
-- `gerar_documentacao.py`: Script para gerar o PDF de documentação
-- `email_diagnostics.py`: Ferramenta de diagnóstico de envio de emails
-- `requirements.txt`: Dependências do projeto
-- `README_EMAIL.md`: Documentação detalhada sobre o sistema de email
+- `README.md`: Documentação detalhada sobre o sistema
 
 ## Funcionalidades
 
