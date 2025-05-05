@@ -1,0 +1,55 @@
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Arquivos de ambiente
+.env
+venv/
+ENV/
+credentials.
+requirements.txt
+
+# Arquivos gerados
+*.pdf
+lambda.zip
+package/
+create_lambda_package.sh
+gerar_documentacao.py
+gerar_recibo.
+documentacao_recibo.py
+local_test.py
+test_email.py
+email_diagnostics.py
+
+# Arquivos específicos
+*example.png
+*exemplo.json
+*.zip
+modelo.json
+
+# Logs
+*.log
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/ 
