@@ -1,0 +1,59 @@
+{
+    "email": "arthur.b.dafonseca@gmail.com",
+    "data": {
+        "dados_debito": {
+            "numero_agencia_debito": "7633",
+            "numero_conta_debito": "00166777",
+            "nome_empresa_debito": "PGW PAYMENTS INTERNET LTDA",
+            "cnpj_debito": "33392629000183"
+        },
+        "dados_pagamento": {
+            "id_pagamento": "a3649c0c-372a-4aa7-b1ce-8f0629e1d2ec",
+            "cod_tipo_pessoa": "J",
+            "cpf_cnpj_favorecido": "66943820000125",
+            "nome_favorecido": "POLICROM GALVANOTECNICA LTD...",
+            "valor_pagamento": "680.00",
+            "numero_lote": "146166898",
+            "numero_lancamento": "56683",
+            "referencia_empresa": "SGI POWER TRANSMISSI",
+            "data_pagamento": "2025-03-31",
+            "status": "Efetuado",
+            "comprovante": "00434176330016677700002100120250331146166898056683",
+            "codigo_isbp": "54401286",
+            "tipo_pagamento": "45",
+            "tipo_pagamento_descricao": "PIX Transferências",
+            "motivo_rejeicao": [],
+            "dados_pix_transferencia": {
+                "chave_enderecamento": "66943820000125",
+                "mensagem_ao_recebedor": "Pago por conta e ordem de SGI POWER TRANSMISSION DO BRASIL LTDA | CNPJ 18.299.985/0001-63"
+            },
+            "valor_tarifa_transferencia": 0.74
+        },
+        "historico_pagamento": [
+            {
+                "status": "Inclusão - API Externa",
+                "data": "2025-03-31-09.10.46.603000",
+                "cod_operador": "0"
+            },
+            {
+                "status": "Autorização",
+                "data": "2025-03-31-09.21.04.750000",
+                "nome_operador": "LUIZ CARLOS PASSAFARO GRANDE",
+                "cod_operador": "831910842",
+                "cpf_operador": "08364130838"
+            },
+            {
+                "status": "Autorização",
+                "data": "2025-03-31-15.36.49.283000",
+                "nome_operador": "LUIZ CARLOS PASSAFARO GRANDE",
+                "cod_operador": "831910842",
+                "cpf_operador": "08364130838"
+            },
+            {
+                "status": "Efetivação",
+                "data": "2025-03-31-15.36.49.637000",
+                "cod_operador": "0"
+            }
+        ]
+    }
+}
